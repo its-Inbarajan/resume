@@ -1,9 +1,10 @@
 # Inba Rajan — Resume
 
-![Resume Preview](./resume-preview.png)
+![Resume Preview](./assets/resume-preview.png)
 
 ## Links
-- 📄 [Download PDF](./Inba_Rajan_Resume.pdf)
+
+- 📄 [Download PDF](./inbarajan_full_stack_developer_resume.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/itsinbarajan)
 - 🌐 [Portfolio](https://inbarajan.vercel.app/)
 - 💻 [GitHub](https://github.com/its-Inbarajan)
